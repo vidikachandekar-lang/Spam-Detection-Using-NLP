@@ -1,0 +1,8 @@
+{
+  "name": "VigilNLP · Intelligent Spam Detection & Text Forensics",
+  "description": "Production-grade NLP spam classifier and linguistic forensics suite combining TF-IDF Naive Bayes, token log-likelihood heatmaps, and Gemini semantic NLP analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
